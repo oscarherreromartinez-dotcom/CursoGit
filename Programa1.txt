@@ -2,4 +2,9 @@ PGM1
 
 modificacion 23/9
 modificacion 23/9-bis 
+<<<<<<< HEAD
 Modificación de otro compañero
+=======
+
+Evolutivo 3
+>>>>>>> Evoutivo3
